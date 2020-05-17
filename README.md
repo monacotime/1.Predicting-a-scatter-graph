@@ -1,6 +1,6 @@
 # Attempt to predict the a scatter graph
 
-###### using Machine learning and Deep learning to predict the value in a scatter graph
+###### Using Machine Learning and Deep Learning to predict the value in a scatter graph
 
 ## Vision before attempt
 
