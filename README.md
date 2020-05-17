@@ -1,5 +1,4 @@
 # Attempt to predict the a scatter graph
-======
 
 ###### using Machine learning and Deep learning to predict the value in a scatter graph
 
