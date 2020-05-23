@@ -7,7 +7,8 @@
 ### Creating training Test and Train data sets
 
 - Use a simple python command to apply a random function to a curve
- Example : Y = rand(0,1)\*(m\*X + c)
+
+    `Example : Y = rand(0,1)*(m*X + c)`
 - Use this is data generated to create a database to train + test from
 - Separate the train and test data
 - Save this data using pickle so that it does not have to be re-created again
@@ -27,3 +28,7 @@
 ### Finally
 
 - Come back to this document later to reflect how much of it I was able to preserve and make it happen. And write a final post-project document
+
+## Vision after attempt
+
+- Project was a complete and utter success
